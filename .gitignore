@@ -17,3 +17,6 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Exclude node_module
 node_modules
+
+# Autogenrated .Idea folder
+.idea
